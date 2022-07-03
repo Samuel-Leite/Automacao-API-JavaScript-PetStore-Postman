@@ -1,5 +1,5 @@
 # Automacao-API-JavaScript-PetStore-Postman
-Automação de API no Postman utilizando validações através do JavaScript e JsonSchema
+A automação de API no Postman foi validado o Response Body através de JavaScript e JsonSchema, funções para gerar variáveis dinâmicas, WorkFlow e Loop para validar cenários sem a necessidade de duplicar Requests.
 
 Foi utilizado no projeto o intepretador em Node JS, JavaScript e o Newman htmlextra.
 
